@@ -7,12 +7,10 @@ Repo này dùng robot **TurtleBot 4** trong môi trường mô phỏng **Ignitio
 - Định vị robot trên bản đồ đã lưu bằng **AMCL**.
 - Điều hướng tự động bằng **Nav2**.
 
-| | |
 |---|---|
 | **Sinh viên** | Trần Lưu Hưng |
 | **MSSV** | 23020747 |
-| **Video demo** | _[Google Drive link]_ |
-| **Báo cáo PDF** | [`docs/report.pdf`](docs/report.pdf) |
+| **Video demo** | _[https://drive.google.com/drive/folders/1F0_m1A2Kt4Kn88vxIO4cJDL93JtvkOUY?usp=sharing]_ |
 
 ---
 
